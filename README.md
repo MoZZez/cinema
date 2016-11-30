@@ -1,2 +1,2 @@
 # cinema
-Searching for occupied seats in cinema bu photo of cinema hall
+Searching for occupied seats in cinema by photo of cinema hall
